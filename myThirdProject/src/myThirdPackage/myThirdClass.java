@@ -6,6 +6,9 @@ public class myThirdClass {
 		// TODO Auto-generated method stub
 		System.out.println("Publish repository");
 		System.out.println("please update kardo repository");
+		
+		System.out.println("Update data from local to remote");
+		System.out.println("Madarchod 2");
 	}
 
 }
