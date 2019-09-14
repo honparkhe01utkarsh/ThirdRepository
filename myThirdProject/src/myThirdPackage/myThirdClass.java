@@ -9,6 +9,10 @@ public class myThirdClass {
 		
 		System.out.println("Update data from local to remote");
 		System.out.println("Madarchod 2");
+		
+		System.out.println("Update data from remote to local");
+		System.out.println("Madarchod 3");
+		
 	}
 
 }
